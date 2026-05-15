@@ -1,0 +1,27 @@
+# Environment variables
+.env
+.env.example
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+
+# Uploaded PDFs
+backend/uploads/
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
